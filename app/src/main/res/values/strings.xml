@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task1_DEPI</string>
+    <string name="title">Meme App</string>
+    <string name="name">Name:</string>
+    <string name="name_val">Nourhan</string>
+    <string name="age">Age:</string>
+    <string name="age_val">20</string>
+    <string name="department">Department:</string>
+    <string name="department_val">Software</string>
+    <string name="meme1_description">Description for meme1</string>
+    <string name="meme2_description">Description for meme2</string>
+    <string name="meme3_description">Description for meme3</string>
+    <string name="information"><u>Information</u></string>
+
+</resources>
